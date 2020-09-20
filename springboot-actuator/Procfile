@@ -1,0 +1,4 @@
+  "scripts": {
+    "heroku-prebuild": "mvn clean install",
+    "start": "mvn spring-boot:run"
+  }
